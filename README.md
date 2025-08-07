@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🐍 Python
 
 Welcome to the **Python** repository by [jay240322](https://github.com/jay240322).  
