@@ -1,5 +1,5 @@
 cat > README.md << 'EOF'
-# 🐍 Python Projects & Practice
+# 🐍 Python
 
 Welcome to the **Python** repository by [jay240322](https://github.com/jay240322).  
 This repo contains a collection of Python programs ranging from beginner to intermediate level. It's built for practice, learning, and showcasing different Python concepts.
