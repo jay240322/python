@@ -23,19 +23,19 @@ This repository may include (or plan to include):
 ## 🚀 Getting Started
 
 1. **Clone this repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/jay240322/python.git
-   \`\`\`
+   ```
 
 2. **Navigate to the folder**
-   \`\`\`bash
+   ```bash
    cd python
-   \`\`\`
+   ```
 
 3. **Run any Python file**
-   \`\`\`bash
+   ```bash
    python filename.py
-   \`\`\`
+   ```
 
 > ✅ Make sure you have **Python 3.x** installed on your system.
 
