@@ -10,4 +10,4 @@ for i in range(n):
 print("sum of numbers:",sum)
 print("minimum numbers:",sum/n)
 print("maximum numbers:",max(num))
-print("average of numbers:",min(num))
+# print("average of numbers:",min(num))

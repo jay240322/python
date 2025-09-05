@@ -11,4 +11,4 @@ list1[1] = int(input("enter num for update the list at index 1:"))
 print(f"list after updateing :{list1}")
 
 list1.remove(int(input("enter num of list for delete:")))
-print(f"list after deleting:{list1}")
+print("list after deleteing",list1)
