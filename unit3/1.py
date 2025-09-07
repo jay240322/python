@@ -15,3 +15,4 @@ s = student("nisha",18,46)
 s.display()
 s1 = student("sharma")
 s1.display()
+

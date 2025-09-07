@@ -14,4 +14,5 @@ class myclass:
 obj1 = myclass()
 obj2 = myclass()
 obj3 = myclass()
+obj4 = myclass()
 myclass.no_of_objects()

@@ -6,7 +6,7 @@ n = int(input())
 
 for i in range(n):
     print("enter player name:")
-    k = input()
+    k = input()   
     print("enter runs:")
     v = int(input())
     x.update({k:v})

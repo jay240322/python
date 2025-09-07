@@ -9,7 +9,7 @@ class student:
     def getmarks(self):
         return self.marks
 
-n = int(input("how many students:"))
+n = int(input("how many students:"))  
 i = 0
 while(i<n):
     s = student() 
